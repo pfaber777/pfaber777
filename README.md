@@ -6,7 +6,7 @@ I have a strong interest in Creative Coding, Technical Art, Graphics & Game Engi
 - 🔭 I’m currently working on strengthening my JavaScript skills alongside learning TypeScript.
 - 👯 I’m looking to collaborate on fun and interesting projects that test my current knowledge as well as push my growth in a way that compliments myself and my collaborators equally. 
 - 💬 Please feel free to reach out for a chat, whether it be just to chat, Network, questions or collaborate.
-  <br>
+  
 - 📫 You can reach me via: pfaber87@gmail.com.
 
   Thanks for stopping by.
