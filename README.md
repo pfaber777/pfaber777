@@ -4,6 +4,7 @@ I'm a Junior Front-End Developer with a passion for learning, problem solving an
 I have a strong interest in Creative Coding, Technical Art, Graphics & Game Engines as well as Business FinTech.
 
 <h1>Top Skills</h1>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vite)](https://skillicons.dev)
 
 - 🔭 I’m currently working on strengthening my JavaScript skills alongside learning TypeScript.
