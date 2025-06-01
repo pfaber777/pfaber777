@@ -5,7 +5,7 @@ I have a strong interest in Creative Coding, Technical Art, Graphics & Game Engi
 
 <h1>Top Skills</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,wordpress)](https://skillicons.dev)
 
 🔭 I’m currently working on strengthening my JavaScript skills alongside learning TypeScript.<br>
 👯 I’m looking to collaborate on fun and interesting projects that test my current skills as well as push my growth in a way that compliments myself and my collaborators equally.<br> 
