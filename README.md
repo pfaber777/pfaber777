@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h3>I'm Phillip,</h3>
-I'm a Junior Front-End Developer with a passion for learning, problem solving and building useful, quality tools and products, however, my curiosity extends beyond only the Front-End.
+I'm a Junior Front-End Developer with a passion for learning, problem solving and building useful, quality tools and products that help improve daily life, however, my curiosity extends beyond only the Front-End.
 I have a strong interest in Creative Coding, Technical Art, Graphics & Game Engines as well as Business FinTech.
 
 <h1>Top Skills</h1>
