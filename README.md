@@ -12,4 +12,4 @@ I have a strong interest in Creative Coding, as well as FinTech and Back-End's.
 💬 Please feel free to reach out for a chat, whether it be just to chat, Network, questions or collaborate.<br>
 📫 You can reach me via: pfaber87@gmail.com.
 
-  Thanks for stopping by.
+  Thanks!
